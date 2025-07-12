@@ -30,8 +30,8 @@ This project analyzes a large, anonymized insurance dataset from Kaggle (1.2 mil
 
 | File | Description |
 |------|-------------|
-| `Full_Report.pdf` | Complete write-up with diagnostics, plots, and conclusions |
-| `sta160_code.pdf` | Full annotated R code used in the analysis |
+| `Full Report` | Complete write-up with diagnostics, plots, and conclusions |
+| `STA160 code.pdf` | Full annotated R code used in the analysis |
 ---
 
 ## 📌 Key Learnings
