@@ -1,10 +1,10 @@
-# 💡 Healthcare Premium Prediction – Statistical Computing Project
+# Healthcare Premium Prediction – Statistical Computing Project
 
 This project analyzes a large, anonymized insurance dataset from Kaggle (1.2 million entries) to build predictive models for healthcare premium pricing using both parametric and non-parametric methods.
 
 ---
 
-## 📊 Project Summary
+## Project Summary
 
 - **Objective:** Predict insurance premium amounts using demographic, behavioral, and financial variables.
 - **Data:** 1.2M rows, 20+ features including income, health score, credit score, feedback, location, and lifestyle.
@@ -12,7 +12,7 @@ This project analyzes a large, anonymized insurance dataset from Kaggle (1.2 mil
 
 ---
 
-## 🔬 Methods & Results
+## Methods & Results
 
 | Model | Description | R² | RMSE |
 |-------|-------------|----|------|
@@ -26,18 +26,11 @@ This project analyzes a large, anonymized insurance dataset from Kaggle (1.2 mil
 
 ---
 
-## 📁 Files
 
-| File | Description |
-|------|-------------|
-| `Full Report` | Complete write-up with diagnostics, plots, and conclusions |
-| `STA160 code.pdf` | Full annotated R code used in the analysis |
----
-
-## 📌 Key Learnings
+##  Key Learnings
 
 - Linear models are often inadequate for skewed real-world data with complex interactions.
 - Feature scaling and transformations are critical for KNN performance.
 - Cross-validation ensures that model results generalize across samples.
-
+- This projects highlights the need for non-parametric models in actuarial sciences
 ---
