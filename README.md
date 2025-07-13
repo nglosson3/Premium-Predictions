@@ -1,4 +1,4 @@
-# Healthcare Premium Prediction – Statistical Computing Project
+# Healthcare Premium Prediction – Statistical Computing and Machine Learning Project
 
 This project analyzes a large, anonymized insurance dataset from Kaggle (1.2 million entries) to build predictive models for healthcare premium pricing using both parametric and non-parametric methods.
 
