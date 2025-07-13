@@ -12,12 +12,11 @@ This project analyzes a large, anonymized insurance dataset from Kaggle (1.2 mil
 
 ---
 
-## Methods & Results
+## Jump In Improvement Within Our Methods & Results
 
 | Model | Description | R² | RMSE |
 |-------|-------------|----|------|
-| Linear Regression | Stepwise AIC-selected model | 0.009 | ~$867 |
-| Box-Cox Regression | Transformed response | 0.0176 | ~$700 |
+| Linear Regression | Stepwise AIC-selected model | 0.003 | ~$867.90 |
 | **KNN (Log Transformed)** | Final model (log + scaled features) | **0.63** | **$528.73** |
 
 - Stepwise regression revealed key interaction effects between claims, credit, income, and feedback.
